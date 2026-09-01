@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./images/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif">
-    <img alt="My Animated Banner" src="./images/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" style="width: 100%; height: 350px; object-fit: cover;">
+    <source media="(prefers-color-scheme: light)" srcset="./images/js.gif">
+    <img alt="My Animated Banner" src="./images/js.gif" style="width: 100%">
   </picture>
 </p>
 
