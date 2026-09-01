@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./images/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif">
+    <img alt="My Animated Banner" src="./images/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="100%">
+  </picture>
+
 # Привет! Я Екатерина👋
 
 Я **Junior Frontend Developer** (начинающий фронтенд-разработчик).  
@@ -6,7 +13,7 @@
 Сейчас ищу возможность начать профессиональный путь в качестве
 **Frontend Developer Intern / Junior Frontend Developer** в **России** (удаленно или в офисе в Омске). Хочу развиваться под руководством опытных специалистов, работать над реальными продуктами и приносить пользу команде.
 
----
+
 ## Технологии и инструменты
 
 ### Основной стек
@@ -89,7 +96,7 @@
     </td>
   </tr>
 </table>
----
+
 
 ## Образование
 
@@ -109,13 +116,12 @@
 - участвовала в код-ревью;
 - выполняла учебные проекты в условиях, приближенных к рабочим.
 
----
 
 ## Проекты
 
 ### [Интернет-магазин Stellar Burgers](https://github.com/Katerina011/stellar-burgers)
 
-**Стек: React · TypeScript · Redux Toolkit · React Router · REST API · Jest · Cypress**
+**Стек: `React` · `TypeScript` · `Redux Toolkit` · `React Router` · `REST API` · `Jest` · `Cypress`**
 
 Разработала SPA-приложение «космическая бургерная» с конструктором бургеров, авторизацией пользователей и интеграцией с API заказов.
 
@@ -127,7 +133,7 @@
 
 ### [Интернет-магазин «Веб-ларёк»](https://github.com/Katerina011/weblarek)
 
-**Стек: TypeScript · ООП · MVP · Event Emitter · REST API**
+**Стек: `TypeScript` · `ООП`· `MVP` · `Event Emitter` · `REST API`**
 
 Интернет-магазин на чистом TypeScript с архитектурой MVP и Event Emitter.
 
@@ -141,7 +147,7 @@
 
 **Командный проект Яндекс Практикума**
 
-**Стек: React · TypeScript · CSS Modules · clsx · LocalStorage · Mock API ·Git**
+**Стек: `React` · `TypeScript` · `CSS Modules` · `clsx` · `LocalStorage` · `Mock API` · `Git`**
 
 SPA-платформа для взаимного обучения и поиска партнеров по обмену знаниями.
 
@@ -159,7 +165,7 @@ SPA-платформа для взаимного обучения и поиск�
 - получать опыт разработки коммерческих продуктов;
 - работать в команде и перенимать опыт у профессиональных разработчиков.
 
----
+
 
 ## 📫 Связаться со мной
 
