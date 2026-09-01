@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/js.gif" alt="My Animated Banner" style="width: 100%; max-width: 700px; max-height: 200px;">
+  <img src="./images/js.gif" alt="My Animated Banner" style="width: 100%; max-width: 700px; max-height: 150px;">
 </p>
 
 # Привет! Я Екатерина👋
