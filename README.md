@@ -1,9 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./images/js.gif">
-    <img alt="My Animated Banner" src="./images/js.gif" style="width: 100%; height: 250px; object-fit: cover>
-  </picture>
+  <img src="./images/js.gif" alt="My Animated Banner" style="width: 100%; max-width: 700px; max-height: 200px;">
 </p>
 
 # Привет! Я Екатерина👋
